@@ -10,7 +10,7 @@ pip install bigbluebutton_api_python
 
 You can also install the latest from this repo with
 ```shell
-pip install git+git://github.com/101t/bigbluebutton-api-python.git
+pip install git+git://github.com/doincredible/bigbluebutton-api-python.git
 ```
 
 
